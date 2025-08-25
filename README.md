@@ -7,6 +7,7 @@ The above link can be used to access the Landmark Detection Dataset provided by 
 To Visualise the Landmark Searching Features [Image Dataset for Landmarks] -> https://storage.googleapis.com/gld-v2/web/index.html
 
 Dowload the Metadata File(does not contain actual data, links of images to be downloaded) from Google Landmark Dataset (Around 500 MB)
+Click to Download -> https://s3.amazonaws.com/google-landmark/metadata/train.csv
 train.csv: CSV with id, url, landmark_id fields. 
           id is a 16-character string, 
           url is a string, 
